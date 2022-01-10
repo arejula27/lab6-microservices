@@ -52,4 +52,4 @@ by a PR so other fellow can try it.
 
 | NIA | User name | Repo | Improvement | Score |
 |-----|-----------|------|-------------|-------|
-|     |           |      |             |       |
+| 785370 | Íñigo Aréjula | [report](https://github.com/arejula27/lab6-microservices/blob/test/docs/report.md) |  ||
